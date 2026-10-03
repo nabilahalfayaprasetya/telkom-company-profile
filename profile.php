@@ -14,4 +14,14 @@ require 'includes/header.php';
         <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.</div>
     </div>
 </section>
+
+<section class="section section-soft">
+    <div class="container">
+        <h2>Fakus Pembelajaran</h2>
+        <ul>
+            <li>Pengembangan Aplikasi Berbasis Web dan Berbasis Data</li>
+            <li>Kecerdasan Buatan dan Rekayasa Data</li>
+        <ul>
+    <div>            
+<section>
 <?php require 'includes/footer.php'; ?>
